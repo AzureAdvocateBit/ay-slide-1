@@ -445,4 +445,4 @@ To get more help on the `angular-cli` use `ng help` or go check out the [Angular
 - [Augury - Chrome Dev Tools extension for debugging Angular 2 applications](https://augury.angular.io/)
 - [Atom snippets](https://atom.io/packages/angular-2-typescript-snippets)
 - [Sublime snippets](https://github.com/orizens/sublime-angular2-snippets)
-- [Visual Code snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
+- [Visual Code snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2&WT.mc_id=aiml-0000-ayyonet)
